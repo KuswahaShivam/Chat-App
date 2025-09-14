@@ -1,11 +1,11 @@
-import ChatGpt4 from 'public\Chatgpt.png'
-// import Claude from 'public\Claude.png'
-// import Copilot from 'public\copilot.png'
-// import Gemini from 'public\Gemini.png'
-// import Deepseek from 'public\deepseek.png'
-import share from 'public\share.svg'
-import info from 'public\info.svg'
-import dropdown from 'public\dropdown.svg'
+import ChatGpt4 from '../assets/png/Chatgpt.png'
+// import Claude from '../assets/png/Claude.png'
+// import Copilot from '../assets/png/copilot.png'
+// import Gemini from '../assets/png/Gemini.png'
+// import Deepseek from '../assets/png/deepseek.png'
+import share from '../assets/svg/share.svg'
+import info from '../assets/svg/info.svg'
+import dropdown from '../assets/svg/dropdown.svg'
 
 const Navbar = () => {
     

@@ -1,8 +1,8 @@
 // import React from 'react'
 
-import pin from 'public\pin.svg'
-import camera from 'public\camera.svg'
-import sendbutton from 'public\sendbutton.svg'
+import pin from '../assets/svg/pin.svg'
+import camera from '../assets/svg/camera.svg'
+import sendbutton from '../assets/svg/sendbutton.svg'
 import Card  from './Card'
 
 const Hero = () => {

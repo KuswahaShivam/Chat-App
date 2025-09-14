@@ -1,6 +1,6 @@
 // import React from 'react'
-import cardimg from '../assets/cardimg.svg'
-import cardimg2 from '../assets/cardimg2.svg'
+import cardimg from 'public\cardimg.svg'
+import cardimg2 from 'public\cardimg2.svg'
 
 const Card = () => {
   return (

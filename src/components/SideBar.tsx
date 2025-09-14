@@ -1,10 +1,10 @@
-import nav from '../assets/Icon.svg'
-import search from '../assets/search.svg'
-import home from '../assets/HomeIcon.svg'
-import library from '../assets/LibraryIcon.svg'
-import history from '../assets/historyicon.svg'
-import explore from '../assets/Explore.svg'
-import profile from '../assets/profile.jpg';
+import nav from 'public\Icon.svg'
+import search from 'public\search.svg'
+import home from 'public\HomeIcon.svg'
+import library from 'public\LibraryIcon.svg'
+import history from 'public\historyicon.svg'
+import explore from 'public\Explore.svg'
+import profile from 'public\Profile.jpg';
 import '../index.css'
 const SideBar = () => {
   return (

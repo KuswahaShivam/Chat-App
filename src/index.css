@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+.card{
+    align-items:space-between;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+
+@media only screen and (max-width: 650px){
+    .list{
+        width:100px;
+        margin-left:5px ;
+    }
+    .side p{
+        display:none;
+    }
+    .cardContainer{
+        display: grid;
+        grid-row: 2;
+    }
+}
